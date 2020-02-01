@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jcstress/target/generated-sources/generated-sources.iml" filepath="$PROJECT_DIR$/jcstress/target/generated-sources/generated-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm6/jvm6.iml" filepath="$PROJECT_DIR$/jvm6/jvm6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jmh/src/main/main.iml" filepath="$PROJECT_DIR$/jmh/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jvm_maven/src/main/main1.iml" filepath="$PROJECT_DIR$/jvm_maven/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcstress/src/main/main2.iml" filepath="$PROJECT_DIR$/jcstress/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/代码.iml" filepath="$PROJECT_DIR$/代码.iml" />
+    </modules>
+  </component>
+</project>

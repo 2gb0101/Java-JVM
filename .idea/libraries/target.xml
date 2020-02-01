@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="target">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jcstress/target/jcstress-1.0-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jcstress/target/jcstress.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
